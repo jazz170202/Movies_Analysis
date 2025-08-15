@@ -46,9 +46,7 @@ SELECT
 FROM invoice_select
 LIMIT 5;
 ```
-
-<img width="958" height="503" alt="image" src="https://github.com/user-attachments/assets/f26542fb-e11e-4b01-8222-2ba132a3da1d" />            
-<img width="717" height="452" alt="image (1)" src="https://github.com/user-attachments/assets/168abc07-d48f-4627-b9dc-241147e76132" />
+<img width="717" height="452" alt="image (1)" src="https://github.com/user-attachments/assets/7b95adeb-0ffe-45bb-830d-8d0b1d82a159" />
 
 
 **Key Insight:** A small group of artists contribute the majority of total sales, making them critical for business revenue.
@@ -72,8 +70,8 @@ ORDER BY Sales DESC;
 
 ```
 
-<img width="959" height="503" alt="image (4)" src="https://github.com/user-attachments/assets/0a39defa-1c8c-4fa9-99e9-a6e3236b2993" />
-<img width="754" height="452" alt="image (2)" src="https://github.com/user-attachments/assets/937f8565-d721-4f45-854e-f9a3cf4c3d51" />
+
+<img width="754" height="452" alt="image (2)" src="https://github.com/user-attachments/assets/6ac012a6-37c2-45e3-91e1-33d7e84d152b" />
 
 
 **Key Insight:** The highest-performing employees handle significantly more sales, showing opportunities for recognition and sharing best practices with lower performers.
@@ -95,10 +93,7 @@ ORDER BY Number_tracks DESC;
 
 ```
 
-<img width="958" height="504" alt="image" src="https://github.com/user-attachments/assets/de9424c2-ec39-4f4c-8f8c-ca3302d4c4c1" /> 
-<img width="1979" height="1180" alt="image (3)" src="https://github.com/user-attachments/assets/5578c77d-21e7-4bf2-9ae9-4030575b62df" />
-
-
+<img width="1979" height="1180" alt="image (3)" src="https://github.com/user-attachments/assets/1c3513c4-00c0-49af-b7d8-451df7d57fc9" />
 
 **Key Insight:** Certain genres dominate the store’s library, aligning with common music trends and possibly influencing sales focus.
 
@@ -120,8 +115,7 @@ ORDER BY Sales DESC;
 
 ```
 
-<img width="958" height="502" alt="image" src="https://github.com/user-attachments/assets/e15d1543-f7be-4891-bea3-06ed59883227" />
-<img width="2379" height="1180" alt="image (1)" src="https://github.com/user-attachments/assets/d24bee02-480f-47fe-972b-54be473146fb" />
+<img width="2379" height="1180" alt="image" src="https://github.com/user-attachments/assets/5cf599b4-a8ff-4b8f-8adc-1051bd990f46" />
 
 
 **Key Insight:** Monthly trends reveal peak sales seasons, which can guide promotional campaigns.
@@ -153,8 +147,7 @@ FROM yearly_sales;
 
 ```
 
-<img width="959" height="503" alt="image (2)" src="https://github.com/user-attachments/assets/5caa51c6-5e26-4a50-b7d5-e097cf2b41f9" />
-<img width="1399" height="947" alt="image (3)" src="https://github.com/user-attachments/assets/99775c15-bf70-47e2-8e0b-5b5fc596ab1f" />
+<img width="1399" height="947" alt="image (1)" src="https://github.com/user-attachments/assets/ab9fe68e-3557-4c90-86a1-7c7d7550406d" />
 
 
 **Key Insight:** The moving average smooths out yearly fluctuations, making it easier to see long-term growth or decline.
